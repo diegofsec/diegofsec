@@ -1,5 +1,4 @@
-# Hi, I'm Diego Fernandez 👋
-
+# Hi, I'm Diego 
 Systems Analyst with 10+ years of experience in banking and finance,
 now specializing in Cybersecurity — based in Australia.
 
